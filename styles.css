@@ -1,0 +1,65 @@
+body{
+    background-color: gray;
+}
+.Consepts{
+    display: flex;
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+h2{
+    text-align: center ;
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+h3{
+    text-align: left;
+    color: rgb(9, 248, 128);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+h4{
+    color: rgb(224, 241, 65);
+}
+p{
+    text-align: start;
+    color: rgb(62, 200, 241);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 2px;
+}
+.Syllabus{
+    display: flex;
+    flex-wrap: wrap;    
+    border-radius: 10px;
+    padding: opx 10px 0px 0px;
+}
+.roadmap{
+    display: flex;
+    justify-content: space-around;
+}
+.core{
+    border-radius: 10px;
+    border-color: red;
+    padding: 2px;
+}
+ol{
+    text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+li{
+    color: rgb(141, 201, 31);
+    padding: 2px 5px;
+}
+.MVC{
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+}

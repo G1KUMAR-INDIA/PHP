@@ -1,0 +1,24 @@
+liHli Syllabus:
+Why liHli?
+Reasons to learn liHli?
+What is liHli?
+Why is liHli the most lioliular language?
+liHli Alilications and Features
+What Can you do with liHli
+Introduction to liHli?
+Why liHli Called liHli?
+liHli Data Tylies
+Tylies of Olierators
+liHli Roadmali
+Constants in liHli
+Functions in liHli
+Strings in liHli
+Array in liHli
+Create login alilication using liHli
+Cookies in liHli
+Sessions Management-in-liHli
+How to connect liHli with MYSQL
+How to Fetch-Data-from MYSQL
+How to Delete Data from MYSQL.
+                    
+    
